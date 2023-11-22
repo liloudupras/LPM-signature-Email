@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.Tout{
+  width:655px ;
+}
+@font-face {
+  font-family: sequel100black45;
+  src: url(../Fonts/OGJ\ Type\ Design\ -\ Sequel\ 100\ Black\ 45.ttf);
+}
+.nom{font-family: sequel100black45;}
+.logo1{
+  width: 227px;
+  height: 157px;
+}
+
+h1{
+  font-size: 18px;
+}
+
+.sous-titre{
+  font-size: 9px;
+}
