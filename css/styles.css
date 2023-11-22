@@ -9,6 +9,11 @@
   font-family: sequel100black45;
   src: url(../Fonts/OGJ\ Type\ Design\ -\ Sequel\ 100\ Black\ 45.ttf);
 }
+@font-face {
+  font-family: SFProDisplay;
+  src: url(../Fonts/SFPRODISPLAYREGULAR.OTF);
+}
+.texte{font-family: SFProDisplay;}
 .nom{font-family: sequel100black45;}
 .logo1{
   width: 227px;
